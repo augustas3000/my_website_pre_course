@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/augustas3000/my_website_pre_course#readme",
   "dependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
